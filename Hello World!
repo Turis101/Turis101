@@ -2,3 +2,4 @@ x = "Helo"
 y = "World!"
 
 print(x + y)
+print("I dpon't give a shit")
